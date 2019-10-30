@@ -28,7 +28,7 @@ hi = "everybody ";
 me = "coding";
 system.out.println(hi+me);
 ```
-위 코드를 작석하면 everybody coding 이라는 문자가 출력된다.
+위 코드를 작성하면 everybody coding 이라는 문자가 출력된다.
 
 각각의 알맞는 데이터 형식이 아닌 다른 데이터 형식으 입력할시 오류가 발생한다.
 
