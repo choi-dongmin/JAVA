@@ -6,7 +6,8 @@
 
 - 데이터의 크기
 
-8 bit(1 byte) -> 1024 byte(1 kilobyte) -> 1024 kilobyte(1 megabyte) -> 1024 magabyte(1 gigabyte) -> 1024 gigabyte(1 terabyte) -> 1024 terabyte(1 petabyte) -> 1024petabyte 1(exabyte) -> 1024 exabyte(1 zettabyte) 
+8 bit(1 byte) -> 1024 byte(1 kilobyte) -> 1024 kilobyte(1 megabyte) -> 1024 magabyte(1 gigabyte) -> 1024 gigabyte
+(1 terabyte) -> 1024 terabyte(1 petabyte) -> 1024petabyte 1(exabyte) -> 1024 exabyte(1 zettabyte) 
 
 8bit 를 제외하고는 모두 1024를 기점으로 다음 데이터의 크기로 증가한다
 
