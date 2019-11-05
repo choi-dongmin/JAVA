@@ -67,11 +67,11 @@
 		if (false || false) {
 			System.out.print(4);
 		}
-
+```
 ||는  한쪽 항이라도 true일시에 출력 됨으로 1,2,3이 출력 된다.
 
 
-
+```
 		String id = args[0];
 		String pw = args[1];
 		if (id.equals("dongmin")) { //
@@ -81,7 +81,7 @@
 			System.out.print("Wrong");
 		}
 	  } 
-
+```
 만약 pw를 123456 이거나 111111 둘중에 하나라도 입력할시에 dongmin이라는 id는 로그인을 할 수 있다.
 
 
