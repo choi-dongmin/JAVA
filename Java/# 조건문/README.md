@@ -136,7 +136,7 @@ java LoginDemo2 dongmin 12345
 		``` 
 
 ## 참조
-[생활코딩](https://opentutorials.org/course/1223/5365)
+[생활코딩](https://opentutorials.org/course/1223/5335)
 
 
 
