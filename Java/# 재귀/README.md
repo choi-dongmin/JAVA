@@ -12,7 +12,7 @@ public class Jegue{
 	if (i==1) {
 		return 1;
 	} else{
-		return factoriasl*factorial(i-1);
+		return i*factorial(i-1);
 	  }
 	}  
 	public static void main (String[] args){
