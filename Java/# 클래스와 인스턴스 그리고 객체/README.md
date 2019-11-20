@@ -167,6 +167,6 @@ L,R은 매개변수이기 때문에 자신의 메소드 다른 메소드로의 �
 
 반면 this.L,R은 class calculator에서 지정한 변수 int L,R 로써 다른 메소드로의 유입이 가능하다. 
 
-참고
+## 참고
 [생활코딩](https://opentutorials.org/course/1223/5400)
 
