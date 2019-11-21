@@ -240,7 +240,7 @@ public class classmemberdemo {
 용어
 
 - 인스턴스 변수 : non-stiatic field
-- 클래스 변수 : stiatc field
+- 클래스 변수 : stiatic field
 
 ## 참고
 
