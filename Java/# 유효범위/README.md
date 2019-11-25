@@ -162,7 +162,7 @@ b 메소드를 이렇게 바꾼다면 당연하게 결과값은 100이 출력된
 
 
 ## 참고
-[생활코](https://opentutorials.org/course/1223/5447)
+[생활코딩](https://opentutorials.org/course/1223/5447)
 
 
 
