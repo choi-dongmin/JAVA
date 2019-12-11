@@ -5,7 +5,7 @@
 ```
  class A {
 
- 	public Stirng y(){                 	// 1번
+ 	public Stirng y(){                 			// 1번
  		return "public void y()";
  	}
  	private String z(){					// 2번
