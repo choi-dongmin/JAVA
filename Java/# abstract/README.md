@@ -205,7 +205,7 @@ public class AbstractDemo2 {
 
 	강제하는 시스템이다. (class 맴버중 abstract 있으면 abstract class가 되고 abstract 메소드
 
-	   뿐 아니라 다른 메소드도 가질수 있다.)
+	뿐 아니라 다른 메소드도 가질수 있다.)
 
 - overriding : 하위 클래스에서 상위 클래스에 있는 같은 메소드를 재정의해 그 재정의 한것을 우선순위로
 
