@@ -23,7 +23,7 @@
  	A a = new A();
  	System.out.println(a.y());
 
- 	//System.out.println(z.y());
+ 	//System.out.println(a.z());
  	// 위 코드는 오류
  	
  	System.out.println(a.x());
