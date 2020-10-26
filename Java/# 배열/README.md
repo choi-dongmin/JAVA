@@ -130,3 +130,6 @@ Arrays.toString(); 은 () 안의 값을 String 의 형태로 바꾸어주는것�
 1. 배열 : 배열이란 같은 데이터타입을 가진 변수의 집합 
 
 2. .length : 배열의 길이(변수 안의 인덱스의 개수.)
+
+## 참고
+[남궁성 유튜브](https://www.youtube.com/watch?v=wwSTlF2gFjU&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp&index=44)
