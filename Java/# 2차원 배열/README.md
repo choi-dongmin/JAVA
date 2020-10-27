@@ -167,3 +167,6 @@ Ex02 문자를 입력받고 입력값이 배열의 값이랑 일치하는지 출
 ## 키워드 
 
 1. 2차원 배열 = 1차원 배열의 배열 형태 즉, 테이블 형태의 배열을 2차원 배열이라고 한다.
+
+## 참고
+[남궁성 유튜브](https://www.youtube.com/watch?v=dYXpWCdF_k4&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp&index=47)
