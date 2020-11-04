@@ -96,7 +96,7 @@ System.out.println(list);
 ```
 int A [] = {1,2,3,4,5};
 ArrayList B = new ArrayList(A.subList(0, 3));
-System.out.println(A);
+System.out.println(B);
 
 결과값 :[ 1,2,3 ]
 ``` 
